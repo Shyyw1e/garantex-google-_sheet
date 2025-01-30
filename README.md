@@ -1,1 +1,1 @@
-# garantex-google-_sheet
+Данный скрипт ведет бугалтерию garantex аккаунта. 
